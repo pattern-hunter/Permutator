@@ -1,4 +1,4 @@
 Permutator
 ==========
 
-This program will help you return all permutations of a given string
+This program will return all permutations of a given string
